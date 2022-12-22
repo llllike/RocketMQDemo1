@@ -1,0 +1,7 @@
+server:
+  port: 9000
+
+rocketmq:
+  name-server: 192.168.255.132:9876
+  producer:
+    group: RocketMQDemo1-producer1
